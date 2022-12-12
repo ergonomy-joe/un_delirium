@@ -1,4 +1,8 @@
 ;----------------------------------------
+;Escape From Delirium 
+;	by Virtual X-Perience 1995
+;	decompiled by ergonomy_joe in 2019
+;----------------------------------------
 ;helper functions for modules C_0BD2
 ; and C_0BFF: ending credits
 ;----------------------------------------

@@ -1,3 +1,8 @@
+(*
+Escape From Delirium 
+	by Virtual X-Perience 1995
+	decompiled by ergonomy_joe in 2019
+*)
 {$G+}
 UNIT C_1018;
 
